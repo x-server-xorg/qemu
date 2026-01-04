@@ -1,5 +1,5 @@
 {
-  "name": "User VM",
+  "name": "XVM",
   "service": "qemu",
   "containerEnv": {
     "BOOT": "https://downloads.getsol.us/isos/2025-11-29/Solus-Plasma-Release-2025-11-29.iso"
