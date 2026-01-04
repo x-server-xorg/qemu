@@ -2,7 +2,7 @@
   "name": "XVM",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "https://downloads.getsol.us/isos/2025-11-29/Solus-Plasma-Release-2025-11-29.iso"
+    "BOOT": "https://mirrors.gigenet.com/endeavouros/iso/EndeavourOS_Ganymede-2025.11.24.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
