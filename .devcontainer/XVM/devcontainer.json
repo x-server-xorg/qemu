@@ -2,7 +2,7 @@
   "name": "XVM",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "https://mirrors.gigenet.com/endeavouros/iso/EndeavourOS_Ganymede-2025.11.24.iso"
+    "BOOT": "https://download.fedoraproject.org/pub/fedora/linux/releases/43/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-43-1.6.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
